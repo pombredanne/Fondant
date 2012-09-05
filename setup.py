@@ -10,8 +10,8 @@ from setuptools import setup
 
 setup (
     name = 'Fondant',
-    version = '0.3.2',
-    url = 'https://bitbucket.org/abki/fondant/overview',
+    version = '0.3.3',
+    url = 'https://github.com/amirouche/Fondant',
     license = 'BSD',
     author = 'Amirouche Boubekki',
     author_email = 'amirouche.boubekki@gmail.com',
